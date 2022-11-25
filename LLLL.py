@@ -12,3 +12,7 @@ for country, city in my_dictionary.items():
     print(country, city)
     for s in city:
         print(s)
+        for country, city in my_dictionary.items():
+            print(country, city)
+            for s in city:
+                print(s)
