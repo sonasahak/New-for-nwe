@@ -1,0 +1,13 @@
+How to create a local branch from an existing remote branch?https://stackoverflow.com › how-t...
+Թարգմանել այս էջը
+17 դեկ, 2019 թ. · 7 պատասխան
+Old post, still I'd like to add what I do. 1. git remote add <remote_name> <repo_url> 2. git fetch <remote_name> 3. git checkout -b <new_branch_name> ...
+How do I check out a remote Git branch? - Stack Overflow
+23 նոյ, 2009 թ.
+How do I create a remote Git branch? - Stack Overflow
+8 հլս, 2022 թ.
+git - creating local branch from remote develop branch
+3 մյս, 2017 թ.
+git - How to add a local repo and treat it as a remote repo
+15 մյս, 2012 թ.
+stackoverflow.com-ի առավել արդյունքներ:
