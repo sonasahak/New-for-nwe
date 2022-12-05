@@ -1,0 +1,33 @@
+{'Short Name': 'AVGO_3.187_15/11/36_RegS', 
+'Display Name': 'AVGO 3.187 11/36 RegS', 
+'Status': 'Active',
+'Price Type': 'Price', 
+'ISIN': 'USU1109MAX49',
+ 'CUSIP': 'U1109MAX4',
+ 'Benchmark': '',
+ 'Benchmark Type': 'Treasury',
+ 'Issuer': 'Broadcom Inc',
+ 'Liquidity Indicator': 'Illiquid',
+ 'Currency': 'USD',
+ 'Sector': 'Technology', 
+'Debt Type': 'N_A',
+ 'Country': 'USA',
+ 'Bond Class': 'HY', 
+'MiFIR Bond Type': 'Corporate Bond', 
+'Fee Structure': 'USHY', 
+'Parameter Table': 'PXHYALL',
+ 'Markets': 'US-COB, US-DOB', 
+'Maturity Date': '2036-11-15', 
+'Effective Maturity Date': '2036-11-15', 
+'Issue Date': '2021-09-30',
+ 'Dead Date': '', 
+'Rating': '222-', 
+'S&P Rating': 'BBB-',
+ "Moody's Rating": 'Baa3', 
+'Par Value': '1', 
+'Min Lot Size': '1',
+ 'Coupon': '3.187', 'Coupon Type': 'FIXED_RATE', 'Payment Frequency': 'Semi Annual', 'Interest Basis': '30/360', 'First Coupon Payment Date': '2021-11-15', 'Interest Accrual Start Date': '2021-09-30', 'Next Coupon Payment Date': '', 'Previous Coupon Payment Date': '2022-11-15', 'Current Amount Outstanding': '2750000000', 'Redemption Value': '100', 'Redemption Date': '20251111', 'Call Start Date': '2036-08-15', 'Call End Date': '', 'Next Call Date': '2036-08-15', 'Effective Call Date': '', 'Effective Call Amount': '', 'Effective Call Amount Percentage': '', 'Index Factor': '', 'FISN': 'BROADCOM INC/SR NT 20361105 SR SR', 'CFI Code': 'DBFNGR', 'Issuer LEI': '549300WV6GIDOZJTV909', 'Issuer Type': 'Corporation', 'Issuer Country': 'USA', 'Settlement Cycle': 'T+2', 'Quantity Scale': '0', 'Price Scale': '4', 'Net Price Scale': '4', 'Yield': '3.19', 'Status Reason': '', 'Business Day Convention': 'NxtBusDay', 'Coupon ExDiv Date': '', 'Green Bond Indicator': 'No', 'Green Bond Type': 'No', 'Coupon Reset Frequency': '', 'Floating Rate Benchmark': '', 'Coupon Spread': '', 'Coupon Stale Indicator': '', 'FRN Incremental Reset Cap Amount': '', 'FRN Incremental Reset Cap Start Date': '', 'FRN Incremental Reset Floor Amount': '', 'FRN Incremental Reset Floor Start Date': '', 'FRN Minimum Rate': '', 'FRN Minimum Start Date': '', 'FRN Maximum Rate': '', 'FRN Maximum Start Date': '', 'FRN Reset Compounding Method': '', 'FRN Cutoff Offset': '', 'Set-In-Arrears Rate': '', 'Payment Lag in days': '', 'Maturity Rate Cut-Off Period in days': '', 'Rate Lookback/Observation Period in days': '', 'Rate Lookback/Observation Period Type': '', 'Daily Factor Calculation Accuracy': '', 'Issue Registration': 'Regulation S', 'Sinkable Indicator': 'No', 'Sink Factor': '', 'Total Issued Nominal Amount': '2750000000', 'CVTB ISIN': '', 'Conversion Feature': 'OPTL', 'SourceID': '1369', 'Mid Price': '132', 'Bid Price': '131', 'Ask Price': '100', 'Settlement Date': '', 'Mid Price Spread': '', 'Bid Price Spread': '', 'Ask Price Spread': '', 'Ask Yield': '', 'Bid Yield': '', 'Macaulay Duration': '', 'Price': 132.0, 'BidPx': 130.0, 'OfferPx': 134.0, 'SecurityIDSource': '4', 'SettlType': '3', 'PriceType': '1', 'Symbol': 'AVGO_3.187_15/11/36_RegS', 'BenchmarkSecurityID': None, 'BenchmarkSecurityIDSource': None, 'Fee Value': '100', 'SecurityID': 'USU1109MAX49'}]
+
+
+1369,AVGO_3.187_15/11/36_RegS,USU1109MAX49,132,131,100,,,,,,,,,20251111
+SourceID,Short Name,ISIN,Mid Price,Bid Price,Ask Price,Settlement Date,Benchmark,Mid Price Spread,Bid Price Spread,Ask Price Spread,Ask Yield,Bid Yield,Macaulay Duration,Redemption Date
